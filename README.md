@@ -7,7 +7,7 @@ A modern, responsive personal portfolio website developed to showcase my skills,
 ## 📌 Live Demo
 
 🔗 Portfolio Website:
-https://23KN1A0589.github.io/personal-portfolio/
+https://23KN1A0589.github.io/FUTURE_FS_01/
 
 ---
 
