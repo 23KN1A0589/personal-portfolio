@@ -62,7 +62,7 @@ personal-portfolio/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/23KN1A0589/personal-portfolio.git
+git clone https://github.com/23KN1A0589/FUTURE_FS_01.git
 ```
 
 2. Open the project folder.
